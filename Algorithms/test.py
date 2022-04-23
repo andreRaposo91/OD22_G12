@@ -1,3 +1,3 @@
 from loadfiles import load
 
-print(load(3))
+print(load(4))
